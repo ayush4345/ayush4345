@@ -9,10 +9,10 @@
 
 **Github Stats**
 ---
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush4345&show_icons=true&theme=radical)
+<p align="center">![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush4345&show_icons=true&theme=radical)</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+**Languages and Tools:**
 ---
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
