@@ -9,7 +9,7 @@
 
 **Github Stats**
 ---
-<p align="center">![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush4345&show_icons=true&theme=radical)</p>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=ayush4345&show_icons=true&theme=radical" /></p>
 
 
 **Languages and Tools:**
