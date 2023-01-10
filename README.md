@@ -11,9 +11,9 @@
 ---
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush4345&show_icons=true&theme=radical)
 
----
 
 <h3 align="left">Languages and Tools:</h3>
+---
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
