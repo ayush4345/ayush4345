@@ -6,10 +6,12 @@
 
 [![@ayush4345'sHolopin board](https://holopin.me/ayush4345)](https://holopin.io/@ayush4345)
 
-<div align="center">
+---
+
 **Github Stats**
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush4345&show_icons=true&theme=radical)
-  <div />
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
