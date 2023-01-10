@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python,C,APIs using python
+- 👀 I’m interested in webDev,ML and web3
+- 🌱 I’m currently learning Python,C,APIs using python, ML
 - 💞️ I’m looking to collaborate on ... projects related to 🕸 Dev 
 - 📫 How to reach me... through ayushk4549@gmail.com
 
