@@ -6,9 +6,10 @@
 
 [![@ayush4345'sHolopin board](https://holopin.me/ayush4345)](https://holopin.io/@ayush4345)
 
+<div align="center">
 **Github Stats**
-
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush4345&show_icons=true&theme=radical)
+  <div />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -23,7 +24,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
            alt="linux" width="40" height="40"/> </a>
   <a href="https://www.reactjs.org" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/> </a> </p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.nextjs.org" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="react" width="40" height="40"/> </a>
+  </p>
 <!---
 ayush4345/ayush4345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
