@@ -1,36 +1,32 @@
-- 👀 I’m interested in webDev,ML and web3
-- 🌱 I’m currently learning Python,C,APIs using python, ML
-- 💞️ I’m looking to collaborate on ... projects related to 🕸 Dev 
-- 📫 How to reach me... through ayushk4549@gmail.com
+[![](https://visitcount.itsvg.in/api?id=ayush4345&icon=9&color=3)](https://visitcount.itsvg.in)
+---
+# About Me:
+* Hey there, I'm Ayush Kumar, a 4th-year undergrad at NITK.
+* I'm exploring Fullstack, Web3, Machine Learning, and Artificial Intelligence.
+* Interested to participate in Hackathons? Have exciting ideas to discuss? then reach out to me at [ayushk4549@gmail.com](mailto:ayushk4549@gmail.com)
 
 [![@ayush4345'sHolopin board](https://holopin.me/ayush4345)](https://holopin.io/@ayush4345)
 
-
-**Github Stats**
----
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=ayush4345&show_icons=true&theme=radical" /></p>
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush45/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayushk_45) 
 
 
-**Languages and Tools:**
----
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-           alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-           alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.reactjs.org" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.nextjs.org" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="react" width="40" height="40"/> </a>
-  </p>
+# GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayush4345&theme=merko&hide_border=false)<br/>
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayush4345&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ayush4345&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+# Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-6DA56F.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!---
 ayush4345/ayush4345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
