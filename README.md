@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 - 👀 I’m interested in webDev,ML and web3
 - 🌱 I’m currently learning Python,C,APIs using python, ML
 - 💞️ I’m looking to collaborate on ... projects related to 🕸 Dev 
